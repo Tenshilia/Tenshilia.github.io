@@ -5,6 +5,6 @@ function Play_Audio(btn){
 		document.getElementById("wushiyin").play();
 	}
 	else{
-		docutment.getElementById("wushiyin").pause();
+		document.getElementById("wushiyin").pause();
 	}
 }
